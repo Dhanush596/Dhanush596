@@ -11,7 +11,7 @@
 <p align="center">
   🔭 I’m an <b>MCA student</b> bridging the gap between full-stack logic and DevOps efficiency.<br>
   🌱 Currently focused on <b>MERN stack</b> development and building automated pipelines.<br>
-  ⚡ <b>Philosophy:</b> <i>"Push through the pain. Giving up hurts more."</i> – Vegeta
+  
 </p>
 
 <br>
