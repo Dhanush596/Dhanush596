@@ -102,6 +102,9 @@
 <!-- 🤝 CONNECT -->
 <h3 align="center">🤝 Connect</h3>
 <p align="center">
+  <a href="https://dhanush-portfolio-ashy.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/dhanush-a-02a806294">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
