@@ -13,10 +13,10 @@
 
 <!-- 👤 BIO SECTION -->
 <p align="center">
-  🔭 I am an <b>MCA graduate (2026)</b> and <b>Cloud-Native / DevOps Engineer</b> bridging the gap between scalable infrastructure, full-stack web applications, and machine learning integrations[cite: 11].<br><br>
-  🏢 <b>Experience:</b> DevOps Intern @ <i>Rooman Technologies</i> (Score: 100/100) | Full-Stack Intern @ <i>Encode Data Tech</i>[cite: 11, 15].<br>
-  ⚙️ <b>Specialization:</b> Designing declarative, self-healing cloud architectures using <b>Terraform, Kubernetes (K3s), Docker, and ArgoCD (GitOps)</b>[cite: 11].<br>
-  🏆 <b>Certifications:</b> "Outstanding" (O) Grade virtual internships from <b>Google</b> & <b>AWS</b>, alongside Elite Gold certifications in Cloud Computing and Research Methodologies[cite: 11].
+  🔭 I am an <b>MCA graduate (2026)</b> and <b>Cloud-Native / DevOps Engineer</b> bridging the gap between scalable infrastructure, full-stack web applications, and machine learning integrations<br><br>
+  🏢 <b>Experience:</b> DevOps Intern @ <i>Rooman Technologies</i> (Score: 100/100) | Full-Stack Intern @ <i>Encode Data Tech</i><br>
+  ⚙️ <b>Specialization:</b> Designing declarative, self-healing cloud architectures using <b>Terraform, Kubernetes (K3s), Docker, and ArgoCD (GitOps)</b><br>
+  🏆 <b>Certifications:</b> "Outstanding" (O) Grade virtual internships from <b>Google</b> & <b>AWS</b>, alongside Elite Gold certifications in Cloud Computing and Research Methodologies
 </p>
 
 <br>
@@ -28,19 +28,19 @@
     <tr>
       <td width="33%" align="center">
         <b>🏗️ MERN GitOps CI/CD Pipeline</b><br><br>
-        <i>Production-grade full-stack app with automated GitOps deployment & vulnerability scanning[cite: 14].</i><br><br>
+        <i>Production-grade full-stack app with automated GitOps deployment & vulnerability scanning.</i><br><br>
         <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br><br>
         <a href="https://github.com/Dhanush596/devstream-app.git"><b>🔗 View Repository</b></a>
       </td>
       <td width="33%" align="center">
         <b>🧠 Mental Health Stress Detector</b><br><br>
-        <i>Full-stack ML web application delivering real-time predictive stress indicators via REST APIs[cite: 14].</i><br><br>
+        <i>Full-stack ML web application delivering real-time predictive stress indicators via REST APIs.</i><br><br>
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /><br><br>
         <a href="https://github.com/Dhanush596/mental-health-monitor.git"><b>🔗 View Repository</b></a>
       </td>
       <td width="33%" align="center">
         <b>📚 AI-Powered Study Assistant</b><br><br>
-        <i>Automated text preprocessing and summarization engine using Natural Language Processing[cite: 14].</i><br><br>
+        <i>Automated text preprocessing and summarization engine using Natural Language Processing.</i><br><br>
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-NLP-00C7B7?style=flat-square&logo=data-science&logoColor=white" /> <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /><br><br>
         <a href="https://github.com/Dhanush596/MCAProject.git"><b>🔗 View Repository</b></a>
       </td>
