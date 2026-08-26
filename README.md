@@ -1,6 +1,6 @@
 <!-- 🎨 HEADER WITH GRADIENT BACKGROUND -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0057b7,ffd700,0057b7&height=250&section=header&text=Hi%20there,%20I'm%20Dhanush%20A!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Cloud-Native%20Engineer%20%7C%20DevOps%20%7C%20Full-Stack&descAlignY=55&descSize=20" alt="Dhanush Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0057b7,ffd700,0057b7&height=250&section=header&text=Hi%20there,%20I'm%20Dhanush%20A!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Cloud-Native%20Engineer%20%7C%20DevOps%20%7C%20Full-Stack&descAlignY=55&descSize=20" alt="Dhanush Header" width="100%"; />
 </div>
 
 <!-- ⌨️ TYPING ANIMATION -->
